@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #ffffcc;
+}
+
+h1 {
+    background-color: #ccaa66;
+    margin: 1em;
+    padding: 25px 50px;
+    text-align: center;
+}
+
+#wrapper {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#footer {
+    background-color: #ccaa66;
+    font-size: 0.6em;
+    font-style: italic;
+    text-align: center;
+}
